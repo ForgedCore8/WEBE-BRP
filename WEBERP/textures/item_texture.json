@@ -5,7 +5,7 @@
 		"webewand": {
 			"textures": "textures/items/wand"
 		},
-		"wandselect": {
+		"webewandsel": {
 			"textures": "textures/items/wand"
 		}
 		
