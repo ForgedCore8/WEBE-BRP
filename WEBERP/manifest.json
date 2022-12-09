@@ -1,0 +1,25 @@
+{
+	"format_version": 1,
+	"header": {
+		"name": "WEBE RP",
+		"description": "World Edit for Bedrock Edition",
+		"uuid": "f5c86bca-f20d-4fe2-83cc-c695be430e05",
+		"version": [
+			0,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "resources",
+			"uuid": "ce27d3d8-ead3-47da-8f74-e92293bf1e11",
+			"version": [
+				0,
+				0,
+				1
+			]
+		}
+	]
+}
