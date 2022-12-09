@@ -4,6 +4,9 @@
 	"texture_data": {
 		"webewand": {
 			"textures": "textures/items/wand"
+		},
+		"wandselect": {
+			"textures": "textures/items/wand"
 		}
 		
 	}
